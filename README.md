@@ -8,6 +8,3 @@ This dataset contains 15,681 images of solid waste categorized into 13 classes b
 
 ## Citation
 If you use this dataset in your work, please appropriately cite our work. The research article for this dataset is currently under submission. The citation information will be provided once the work has been published.
-
-## License
-The dataset is provided for non-commercial research and educational use only.
